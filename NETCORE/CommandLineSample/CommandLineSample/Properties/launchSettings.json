@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CommandLineSample": {
+      "commandName": "Project",
+      "commandLineArgs": "name=wenha age=23"
+    }
+  }
+}
